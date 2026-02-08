@@ -1,0 +1,14 @@
+# Ignore dataset files
+dataset/
+*.zip
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore model checkpoints
+*.pth
+
+# Ignore IDE/editor files
+.idea/
+.vscode/
