@@ -1,0 +1,32 @@
+MODEL EVALUATION – TEST SET
+
+Model Name        : MobileNetV2 (Transfer Learning)
+Dataset           : Wafer Defect Classification
+Evaluation Split  : TEST SET ONLY
+
+----------------------------------------
+Performance Metrics
+----------------------------------------
+Test Accuracy     : 25.00 %
+Precision         : 26.92 %
+Recall            : 25.00 %
+
+----------------------------------------
+Confusion Matrix
+----------------------------------------
+Attached separately as: confusion_matrix.png
+
+----------------------------------------
+Model Information
+----------------------------------------
+Model Format      : ONNX
+Model Size        : XX MB
+Inference Device  : CPU
+Training Device   : CPU
+
+----------------------------------------
+Remarks
+----------------------------------------
+• Test accuracy is lower than validation accuracy due to limited dataset size
+• Class imbalance and visual similarity between wafer defects affected predictions
+• Model evaluation followed strict test-only protocol to avoid data leakage
