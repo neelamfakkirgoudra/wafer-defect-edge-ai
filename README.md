@@ -43,6 +43,7 @@ in semiconductor wafer images using AI/ML techniques.
 - `code/` – Training, evaluation & export scripts
 - `model/` – ONNX model
 - `results/` – Metrics and confusion matrix
+- Sem Images Dataset:-
 - Google Drive Folder:https://drive.google.com/drive/folders/1Z6a9h0ogrxXXV5VEk84Vcl_jFVsiESO1?usp=sharing
 
 ## Author
