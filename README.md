@@ -45,6 +45,8 @@ in semiconductor wafer images using AI/ML techniques.
 - `results/` – Metrics and confusion matrix
 - Sem Images Dataset:-
 - Google Drive Folder:https://drive.google.com/drive/folders/1Z6a9h0ogrxXXV5VEk84Vcl_jFVsiESO1?usp=sharing
+- Resubmitted Google Drive Link: https://drive.google.com/drive/folders/1kUXwZZXjfbHESFb-h6ItFqS4bFFQNfDd?usp=sharing
+
 
 ## Author
 NEELA M F
