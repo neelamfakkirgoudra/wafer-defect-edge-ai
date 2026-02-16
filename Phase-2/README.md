@@ -10,7 +10,9 @@ Evaluate Phase-1 trained model on unseen hackathon dataset.
 
 ## Results
 Accuracy  : 42.9%
+
 Precision : 48.1%
+
 Recall    : 49.0%
 
 ## Observations
