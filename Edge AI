@@ -1,0 +1,22 @@
+# Wafer Defect Classification - Hackathon Submission
+
+## Overview
+This project classifies wafer defects using MobileNetV2.
+
+Phase-1 involved training on 8 defect classes.
+Phase-2 evaluated the trained model on a new unseen dataset.
+
+## Model Used
+MobileNetV2
+
+## Final Phase-2 Performance
+Accuracy  : 42.9%
+Precision : 48.1%
+Recall    : 49.0%
+
+## Key Highlights
+- No retraining in Phase-2 (rule followed strictly)
+- Particle class mapped to Others
+- Confusion matrix generated
+- Clean evaluation pipeline
+
