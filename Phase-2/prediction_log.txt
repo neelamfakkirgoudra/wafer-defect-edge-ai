@@ -1,0 +1,13 @@
+====================================
+Phase-2 Hackathon Prediction Log
+====================================
+Execution Date: 2026-02-15 14:53:12.502025
+Dataset Used: hackathon_test_dataset
+Total Images: 296
+------------------------------------
+Accuracy  : 0.4291
+Precision : 0.4814
+Recall    : 0.4902
+------------------------------------
+Inference Device: cpu
+Model Used: best_model.pth
